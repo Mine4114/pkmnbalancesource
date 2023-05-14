@@ -1,0 +1,4 @@
+Name         = Marin's Enhanced Staircases
+Version      = 1.8
+Credits      = Marin
+Link         = https://reliccastle.com/resources/396/

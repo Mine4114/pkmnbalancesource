@@ -1,0 +1,4 @@
+﻿Name      = Party Switcher (v.19)
+Version   = 4.0
+Website   = https://reliccastle.com/resources/323/
+Credits   = Michael, TechSkylander1518, Marcello, ZeroKid
