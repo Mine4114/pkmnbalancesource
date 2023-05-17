@@ -884,7 +884,20 @@
 2001,PIKATOKEN,Pika Token,Pika Tokens,8,0,"A Token from an unknown world. You can feel electric energy radiating from it.",0,0,6
 2002,ORDERBALL,Order Ball,Order Balls,3,500,"A prototype Poké Ball. It catches chaotic Pokémon more easily.",0,4,4
 2003,PIKAKEY,Key,Keys,8,0,"An incomprehensible key.",0,0,6
-601,JOYSCENT,Joy Scent,Joy Scents,1,300,"This scent massage opens the hearts of Pokémon a little.",1,0,0
-602,EXCITESCENT,Excite Scent,Excite Scents,1,500,"This scent massage opens the hearts of Pokémon.",1,0,0
-603,VIVIDSCENT,Vivid Scent,Vivid Scents,1,800,"This scent massage opens the hearts of Pokémon a lot.",1,0,0
-604,TIMEFLUTE,Time Flute,Time Flutes,1,3000,"This item fully opens the hearts of a Pokémon.",1,0,0
+2004,JOYSCENT,Joy Scent,Joy Scents,1,300,"This scent massage opens the hearts of Pokémon a little.",1,0,0
+2005,EXCITESCENT,Excite Scent,Excite Scents,1,500,"This scent massage opens the hearts of Pokémon.",1,0,0
+2006,VIVIDSCENT,Vivid Scent,Vivid Scents,1,800,"This scent massage opens the hearts of Pokémon a lot.",1,0,0
+2007,TIMEFLUTE,Time Flute,Time Flutes,1,3000,"This item fully opens the hearts of a Pokémon.",1,0,0
+#-------------------------------
+# Legends: Arceus Items (add to your current items.txt)
+#-------------------------------
+2008,BLACKAUGURITE,Black Augurite,Black Augurites,1,2100,"A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.",1,0,7,
+2009,PEATBLOCK,Peat Block,Peat Blocks,1,2100,"A block of muddy material that can be used as fuel for burning when it is dried. It’s loved by a certain Pokémon.",1,0,7,
+2010,LINKINGCORD,Linking Cord,Linking Cords,1,2100,"A string exuding a mysterious energy that makes you feel a strange sense of connection. It’s loved by certain Pokémon.",1,0,7,
+2011,ADAMANTCRYSTAL,Adamant Crystal,Adamant Crystals,8,0,"When used on Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.",5,0,6,
+2012,LUSTROUSGLOBE,Lustrous Globe,Lustrous Globes,8,0,"When used on Palkia, this large, glowing orb wells with power and allows the Pokémon to change form.",5,0,6,
+2013,LEGENDPLATE,Legend Plate,Legend Plates,8,0,"A stone tablet imbued with the essence of all creation. When used on a certain Pokémon, it allows that Pokémon to gain the power of every type there is.",5,0,6,
+2014,BLANKPLATE,Blank Plate,Blank Plates,1,1000,"A stone tablet imbued with the essence of normalcy. When used on a certain Pokémon, it allows that Pokémon to gain the power of the Normal type.",0,0,0,
+2015,HOPOBERRY,Hopo Berry,Hopo Berries,5,20,"A Berry that can be fed to a Pokémon to restore its PP.",0,0,5,
+#-------------------------------
+2016,IDIOSSTONE,Idios Stone,Idios Stones,1,10200,"Great for overly complicated evolution methods! It allows certain Pokémon to evolve.",1,0,7

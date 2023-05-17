@@ -791,7 +791,9 @@ class PokeBattle_Battle
           when :POISON;    pbDisplay(_INTL("{1} was cured of its poison!",b.pbThis))  
           when :PARALYSIS; pbDisplay(_INTL("{1} was cured of its paralysis!",b.pbThis))
           when :SLEEP;     pbDisplay(_INTL("{1} woke up!",b.pbThis)) 
-          when :FROZEN;    pbDisplay(_INTL("{1} thawed out!",b.pbThis)) 
+          when :FROZEN;    pbDisplay(_INTL("{1} thawed out!",b.pbThis))
+          when :FROSTBITE; pbDisplay(_INTL("{1} was healed of its frostbite!",b.pbThis))
+          when :DROWSY;    pbDisplay(_INTL("{1} was pull out of drowsiness!",b.pbThis))          
           end
         end
       end
